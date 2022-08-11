@@ -1,0 +1,18 @@
+#searchbar{
+    width:98%;
+    height:3rem;
+    border:2px solid black;
+    border-radius: 40px;
+    margin:5px 5px;
+    outline: none;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.search{
+    display: flex;
+    width:100%;
+    flex-wrap: wrap;
+}
+#head{
+    font-weight: bold;
+}

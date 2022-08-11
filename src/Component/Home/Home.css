@@ -1,0 +1,15 @@
+#nav{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 30%;
+    outline: none;
+    background-color: green;
+    font-size: 2.5rem;
+    margin-right: 3rem;
+    color: white;
+    border: none;
+    cursor: pointer;
+    position: fixed;
+    right: 0;
+    bottom: 10px;
+}
